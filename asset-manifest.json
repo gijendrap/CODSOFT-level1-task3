@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CODSOFT-level1-task3/static/css/main.033d69d5.css",
+    "main.js": "/CODSOFT-level1-task3/static/js/main.480f3694.js",
+    "static/js/787.5f81c7f8.chunk.js": "/CODSOFT-level1-task3/static/js/787.5f81c7f8.chunk.js",
+    "index.html": "/CODSOFT-level1-task3/index.html",
+    "main.033d69d5.css.map": "/CODSOFT-level1-task3/static/css/main.033d69d5.css.map",
+    "main.480f3694.js.map": "/CODSOFT-level1-task3/static/js/main.480f3694.js.map",
+    "787.5f81c7f8.chunk.js.map": "/CODSOFT-level1-task3/static/js/787.5f81c7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.033d69d5.css",
+    "static/js/main.480f3694.js"
+  ]
+}
